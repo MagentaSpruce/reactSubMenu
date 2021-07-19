@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactSubMenu/static/css/main.fbca9421.chunk.css",
+    "main.js": "/reactSubMenu/static/js/main.70a2bd30.chunk.js",
+    "main.js.map": "/reactSubMenu/static/js/main.70a2bd30.chunk.js.map",
+    "runtime-main.js": "/reactSubMenu/static/js/runtime-main.93be9ad6.js",
+    "runtime-main.js.map": "/reactSubMenu/static/js/runtime-main.93be9ad6.js.map",
+    "static/js/2.e1e77988.chunk.js": "/reactSubMenu/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/reactSubMenu/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/reactSubMenu/index.html",
+    "precache-manifest.b443eec2f1856d8998ab2224ab31e96f.js": "/reactSubMenu/precache-manifest.b443eec2f1856d8998ab2224ab31e96f.js",
+    "service-worker.js": "/reactSubMenu/service-worker.js",
+    "static/css/main.fbca9421.chunk.css.map": "/reactSubMenu/static/css/main.fbca9421.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/reactSubMenu/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/reactSubMenu/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/reactSubMenu/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/reactSubMenu/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93be9ad6.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.fbca9421.chunk.css",
+    "static/js/main.70a2bd30.chunk.js"
+  ]
+}

@@ -1,6 +1,5 @@
 import React from "react";
 import phoneImg from "./images/phone.svg";
-import { AppProvider } from "./context";
 
 import { useGlobalContext } from "./context";
 const Hero = () => {
@@ -10,15 +9,12 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <article className="hero-info">
-          <h1>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed,
-            quisquam.
-          </h1>
+          <h1>Get Paid like a heavyweight!</h1>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio
-            repudiandae delectus, debitis reiciendis id quae consequuntur facere
-            at neque veniam error in? Atque sed, voluptatibus nobis vero illo
-            ipsam voluptates!
+            I make chedder cheese money for cheeder cheese fools my friend
+            because everyone knows that chedder does indeed make it better and
+            so therefore and whence it came to be that it was chedder which
+            ruled the day with much cheese and rejoicing with chedder.
           </p>
           <button className="btn">Start now</button>
         </article>

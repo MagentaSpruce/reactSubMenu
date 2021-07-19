@@ -6,7 +6,7 @@ const Hero = () => {
   const { closeModal } = useGlobalContext();
 
   return (
-    <section className="hero">
+    <section className="hero" onMouseOver={closeModal}>
       <div className="hero-center">
         <article className="hero-info">
           <h1>Get Paid like a heavyweight!</h1>
